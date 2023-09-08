@@ -1,2 +1,2 @@
 # Ventilador
-Condigo para controlar ventilador con PWM
+Codigo para controlar ventilador con PWM
